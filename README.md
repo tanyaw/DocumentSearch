@@ -18,7 +18,7 @@ This program is not 100% production ready. Due to the time constraint, I was una
           1. If one of the searchTerms is a stand-alone special character, it will fail to match
      
 2. Regex Search
-Despite escaping the special characters within the searchTerm, I had difficulty with creating a regular expression that would respect word boundaries and also be able to match specical characters. 
+      - Despite escaping the special characters within the searchTerm, I had difficulty with creating a regular expression that would respect word boundaries and also be able to match specical characters. 
       - COMPLETE:
           1. Can handle single and phrase searchTerms
       - EDGECASE:
